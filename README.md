@@ -293,24 +293,3 @@ MIT License - feel free to use this project for your own applications.
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📞 Support
-
-For questions, issues, or feature requests:
-- Create an issue in the GitHub repository
-- Check existing documentation and code comments
-- Review the debug panel for real-time application state
-
-## 🔍 Troubleshooting
-
-### Common Issues
-1. **Side Panel Not Opening**: Check console for click event logs
-2. **Nodes Not Appearing**: Verify debug panel shows correct node count
-3. **Export Not Working**: Ensure nodes exist before attempting export
-4. **Styling Issues**: Confirm Tailwind CSS is properly loaded
-
-### Debug Steps
-1. Open browser developer tools (F12)
-2. Check console for error messages
-3. Use debug panel to verify application state
-4. Test with simple operations first
